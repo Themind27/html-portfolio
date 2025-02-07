@@ -1,2 +1,2 @@
 # html-portfolio
-This website highmight my HTML portfolio.
+This website highlight my HTML portfolio.
